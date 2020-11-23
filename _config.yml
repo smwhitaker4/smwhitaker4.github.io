@@ -1,4 +1,3 @@
 theme: jekyll-theme-modernist
 title: Smwhitaker4's CS 499 Capstone Homepage.
-description: This site was designed around demonstrating the enhancement progression for my console applicaiton called "Liars Dice". 
-The original code base started as a C++ .Net console application and was converted to C# .Net Core. All code displayed was written by myself.
+description: This site was designed around demonstrating the enhancement progression for my console applicaiton called "Liars Dice". The original code base started as a C++ .Net console application and was converted to C# .Net Core. All code displayed was written by myself.
