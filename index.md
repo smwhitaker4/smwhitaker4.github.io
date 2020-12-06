@@ -1,10 +1,10 @@
+# Overview
+In IT 312 Software Development w/ C++ .Net, we developed a turn-based dice game for our final project. The game I chose to do for my final project in that class was called Liar’s Dice. I chose this as the enhancement artifact for all three areas (Design, Algorithms, and Databses) because it showcases my work as a program that I built from the ground up. This means I had to interpret the rules of the game, design the structure of the code around those rules, and implement all functions according to my interpretation. No portion of this code was prefabbed by a professor or otherwise.
+<br><br>
+
 # Code Review
 ### [Liar's Dice Code Review](https://youtu.be/BnCeVtF9PVs)
 The above link provides access to my recorded Code Review for the original C++ code base of the Liar's Dice application, prior to making any changes.
-<br><br>
-
-# Overview
-In IT 312 Software Development w/ C++ .Net, we developed a turn-based dice game for our final project. The game I chose to do for my final project in that class was called Liar’s Dice. I chose this as the enhancement artifact for all three areas (Design, Algorithms, and Databses) because it showcases my work as a program that I built from the ground up. This means I had to interpret the rules of the game, design the structure of the code around those rules, and implement all functions according to my interpretation. No portion of this code was prefabbed by a professor or otherwise.
 <br><br>
 
 # Enhancement One: Software Design and Engineering
