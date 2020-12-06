@@ -1,0 +1,14 @@
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.exe
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.deps.json
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.runtimeconfig.json
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.runtimeconfig.dev.json
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.dll
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceEnchancements.pdb
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.AssemblyInfoInputs.cache
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.AssemblyInfo.cs
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.csproj.CoreCompileInputs.cache
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.dll
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.pdb
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.genruntimeconfig.cache
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\bin\Debug\netcoreapp3.1\LiarsDiceRules.txt
+C:\Users\Seth\source\repos\LiarsDiceEnchancements\LiarsDiceEnchancements\obj\Debug\netcoreapp3.1\LiarsDiceEnchancements.csprojAssemblyReference.cache
